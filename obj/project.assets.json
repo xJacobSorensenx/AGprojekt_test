@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\vsprojects\\MvcGitTest\\AGprojekt_test\\AGprojekt_test.csproj",
+      "projectUniqueName": "C:\\vsprojects\\mvcgittest\\AGprojekt_test\\AGprojekt_test.csproj",
       "projectName": "AGprojekt_test",
-      "projectPath": "C:\\vsprojects\\MvcGitTest\\AGprojekt_test\\AGprojekt_test.csproj",
+      "projectPath": "C:\\vsprojects\\mvcgittest\\AGprojekt_test\\AGprojekt_test.csproj",
       "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\vsprojects\\MvcGitTest\\AGprojekt_test\\obj\\",
+      "outputPath": "C:\\vsprojects\\mvcgittest\\AGprojekt_test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
